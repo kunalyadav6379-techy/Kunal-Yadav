@@ -40,10 +40,10 @@ If you’re working on an interesting project or have a collaboration in mind, l
 
 ## Connect with Me 📫
 
-- **Location**: Kanpur, India  
-- **GitHub**: [@Rohan-Yadav](https://github.com/your-username)  
-- **LinkedIn**: [linkedin.com/in/rohan-yadav](https://linkedin.com/in/rohan-yadav)  
-- **Email**: rohan.yadav@contact.me  
+- **Location**: Kanpur, Uttar Pradesh, India  
+- **GitHub**: [Rohan Yadav on Github](https://github.com/rohanyadav2010)  
+- **LinkedIn**: <a href="https://www.linkedin.com/in/rohan-yadav-958160320">Rohan Yadav on LinkedIn</a>
+- **Email**: rohanyadav2010@outlook.com  
 
 </div>
 
